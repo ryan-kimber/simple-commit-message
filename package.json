@@ -1,5 +1,5 @@
 {
-  "name": "simple-commit-message",
+  "name": "@formhero/simple-commit-message-fork",
   "description": "Simple commit message wizard and validator; works with commitizen and pre-git",
   "main": "src/index.js",
   "bin": {
