@@ -4,7 +4,7 @@ const inquirer = require('inquirer')
 const simple = require('..')
 const confirm = require('inquirer-confirm')
 const hr = require('hr')
-const ggit = require('ggit')
+const ggit = require('@formhero/ggit-fork')
 
 simple.prompter(inquirer, function (text) {
   console.log('formed the following commit message')
